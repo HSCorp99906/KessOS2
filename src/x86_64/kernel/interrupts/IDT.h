@@ -28,7 +28,7 @@
 
 // The IDT entries are called gates.
 #define TRAP_GATE_FLAGS 0x8F
-#define INT_GATE_FLAGS
+#define INT_GATE_FLAGS 0x8E
 
 #define ENTRY_LIMIT 256
 
